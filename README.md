@@ -7,6 +7,9 @@ url: http://localhost:8080/coffee/1
 #POST
 url: http://localhost:8080/coffee/save
 
+#GET
+http://localhost:8080/coffee/redlabel
+
 Body
 ----
 content type: application/xml

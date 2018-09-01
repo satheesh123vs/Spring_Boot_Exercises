@@ -1,4 +1,4 @@
-package com.boraji.tutorial.springboot.model;
+package com.tutorial.springboot.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

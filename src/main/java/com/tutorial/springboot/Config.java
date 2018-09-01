@@ -1,4 +1,4 @@
-package com.boraji.tutorial.springboot;
+package com.tutorial.springboot;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 import org.springframework.util.ResourceUtils;
 
-import com.boraji.tutorial.springboot.model.CoffeeBean;
+import com.tutorial.springboot.model.CoffeeBean;
 
 @Configuration
 @EnableTransactionManagement

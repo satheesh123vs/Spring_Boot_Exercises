@@ -1,4 +1,4 @@
-package com.boraji.tutorial.springboot.model;
+package com.tutorial.springboot.model;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
