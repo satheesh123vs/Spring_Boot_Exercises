@@ -11,8 +11,6 @@ https://www.netsurfingzone.com/core-java/daemon-thread-in-java-with-example/
 #mvc
 http://gurugubellitech.blogspot.com/2018/02/employee-management-app-java-jsp-jstl-spring-mysqal-jquery-ajax.html
 
-#validator Constraints 
-https://www.netsurfingzone.com/hibernate/hibernate-validator-constraints-example-using-spring-boot/
 #global-error-handling-example-in-spring-boot
 https://www.netsurfingzone.com/spring-boot/exceptionhandler-example-in-spring-boot/
 
@@ -24,6 +22,8 @@ https://www.javainuse.com/devOps/docker/docker-war
 https://www.javainuse.com/spring/boot_swagger
 https://www.javainuse.com/spring/spring-boot-apache-kafka-hello-world
 
+#hibernate-validator-constraints-using-spring-boot
+https://www.netsurfingzone.com/hibernate/hibernate-validator-constraints-example-using-spring-boot/
 
 #db - crud
 https://www.netsurfingzone.com/spring-boot/spring-boot-crud-example-with-mysql/
