@@ -1,4 +1,4 @@
-#Spring Mvc
+#Spring Mvc - Filter Example
 
 #Demo url:
 http://localhost:8080/SpringMVC/movie/ 
